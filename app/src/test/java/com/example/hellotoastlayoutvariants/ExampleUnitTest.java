@@ -1,4 +1,4 @@
-package com.example.hellotoast;
+package com.example.hellotoastlayoutvariants;
 
 import org.junit.Test;
 
